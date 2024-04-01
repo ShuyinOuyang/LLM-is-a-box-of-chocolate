@@ -72,4 +72,4 @@ We use `measurement_summary_draw_heatmap.py` to display our result. (Please modi
 
 './images' stores all the experiment images used in the paper.
 
-'./tables' stores all the experiment digital results.
+'./log' stores part of the experiment logs.
