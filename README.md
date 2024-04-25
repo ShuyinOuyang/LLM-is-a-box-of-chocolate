@@ -74,6 +74,4 @@ We also upload our experiment log, including generated code, test input, test ex
 
 ## Full results
 
-'./images' stores all the experiment images used in the paper.
-
-'./log' stores part of the experiment logs.
+'./log' stores part the experiment logs.
