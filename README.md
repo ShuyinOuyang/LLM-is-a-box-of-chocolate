@@ -74,4 +74,4 @@ We also upload our experiment log, including generated code, test input, test ex
 
 ## Full results
 
-'./log' stores part the experiment logs.
+'./log' stores the experiment logs.
