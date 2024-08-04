@@ -68,8 +68,8 @@ There are bugs that might occur in running this script:
 
 We use `measurement_summary_draw_heatmap.py` to display our result. (Please modify the config setting before running the script)
 
-**In the `Appendix.pdf`, we store all the figures and tables in our experiment, including the distribution of CodeContests and APPS dataset in terms of difficulty and problem tags, the tables and figures could not fit into the paper for RQ3-6.
-**
+**In the `Appendix.pdf`, we store all the figures and tables in our experiment, including the distribution of CodeContests and APPS dataset in terms of difficulty and problem tags, the tables and figures could not fit into the paper for RQ3-6.**
+
 We also upload our experiment log, including generated code, test input, test expected output, and test actual output.
 
 ## Full results
